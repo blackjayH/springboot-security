@@ -1,6 +1,6 @@
-package com.victolee.signuplogin.dto;
+package com.spring.security.dto;
 
-import com.victolee.signuplogin.domain.entity.MemberEntity;
+import com.spring.security.domain.entity.MemberEntity;
 import lombok.*;
 
 import java.time.LocalDateTime;

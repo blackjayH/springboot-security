@@ -1,9 +1,9 @@
-package com.victolee.signuplogin.service;
+package com.spring.security.service;
 
-import com.victolee.signuplogin.domain.Role;
-import com.victolee.signuplogin.domain.entity.MemberEntity;
-import com.victolee.signuplogin.domain.repository.MemberRepository;
-import com.victolee.signuplogin.dto.MemberDto;
+import com.spring.security.domain.Role;
+import com.spring.security.domain.entity.MemberEntity;
+import com.spring.security.domain.repository.MemberRepository;
+import com.spring.security.dto.MemberDto;
 import lombok.AllArgsConstructor;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

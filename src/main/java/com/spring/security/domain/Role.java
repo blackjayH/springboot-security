@@ -1,4 +1,4 @@
-package com.victolee.signuplogin.domain;
+package com.spring.security.domain;
 
         import lombok.AllArgsConstructor;
         import lombok.Getter;

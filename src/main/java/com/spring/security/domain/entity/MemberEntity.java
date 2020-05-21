@@ -1,4 +1,4 @@
-package com.victolee.signuplogin.domain.entity;
+package com.spring.security.domain.entity;
 
 import lombok.AccessLevel;
 import lombok.Builder;

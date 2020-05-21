@@ -1,7 +1,7 @@
-package com.victolee.signuplogin.controller;
+package com.spring.security.controller;
 
-import com.victolee.signuplogin.dto.MemberDto;
-import com.victolee.signuplogin.service.MemberService;
+import com.spring.security.dto.MemberDto;
+import com.spring.security.service.MemberService;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

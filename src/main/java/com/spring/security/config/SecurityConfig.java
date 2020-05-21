@@ -1,6 +1,6 @@
-package com.victolee.signuplogin.config;
+package com.spring.security.config;
 
-import com.victolee.signuplogin.service.MemberService;
+import com.spring.security.service.MemberService;
 import lombok.AllArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
